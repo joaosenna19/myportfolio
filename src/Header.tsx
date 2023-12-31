@@ -10,7 +10,7 @@ const Header = () => {
       <p className="mb-2 text-base font-light">
         Passionate Software Developer looking for his first opportunity
       </p>
-      <p className="my-auto mb-2 flex text-sm font-thin">
+      <p className="mb-2 flex text-sm font-thin">
         <img src={flag} alt="" width="24" height="24" className="mr-2" />
         Calgary, AB, CA
       </p>
