@@ -1,4 +1,10 @@
-const Stack = ({ stack }) => {
+import React from "react";
+
+interface StackProps {
+  stack: string;
+}
+
+const Stack: React.FC<StackProps> = ({ stack }) => {
   return (
     <div
       className="relative mr-3 mt-2 rounded-md py-1 pr-1"
