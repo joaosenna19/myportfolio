@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "http://joaosenna19.github.io/myporfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
