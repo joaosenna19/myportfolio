@@ -29,7 +29,7 @@ const Education = () => {
       ))}
       <p className="text-color mt-2 font-medium">
         <a
-          href="https://drive.google.com/file/d/1p-6S46x9HJVo4S6guRdfdba6uSW3HGKT/view?usp=sharing"
+          href="https://drive.google.com/file/d/1AVtGXDFPoW0Bl5rmc4kDtQjaebkTKsuC/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-mygreen"

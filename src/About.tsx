@@ -7,8 +7,8 @@ const About = () => {
         started exploring the world of computers, particularly video games. Even
         back then, using a desktop with Windows 2000, I was already engaged in
         educational games like "Reader Rabbit." During adolescence, my interest
-        expanded to programming, and for fun, I developed pirate servers for the
-        game Ragnarok Online.
+        expanded to programming, and for fun, I developed alternative servers
+        for the game Ragnarok Online.
       </p>
       <p className="text-color mb-2 text-justify text-base font-light">
         Despite my love for technology, I chose to study law and worked in the
