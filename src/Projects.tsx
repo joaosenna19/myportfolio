@@ -10,7 +10,7 @@ const Projects = () => {
     {
       title: "Fencier API",
       description:
-        "API for my Capstone project Fencier, a platform that allows customer to get instant online quotes for a fence by draqing in a map.",
+        "API for my Capstone project Fencier, a platform that allows customer to get instant online quotes for a fence by drawing in a map.",
       image: fencierapi,
       developmentDate: "Jun 2024",
       github: "https://github.com/joaosenna19/fencier-api",
