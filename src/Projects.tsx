@@ -2,9 +2,36 @@ import MyProjects from "./MyProjects";
 import payMaster from "./assets/paymaster.png";
 import timber from "./assets/timber.png";
 import mtg from "./assets/mtg.png";
+import mtg20 from "./assets/mtg20.png";
+import fencierapi from "./assets/fencierapi.png";
 
 const Projects = () => {
   const projects = [
+    {
+      title: "Fencier API",
+      description:
+        "API for my Capstone project Fencier, a platform that allows customer to get instant online quotes for a fence by draqing in a map.",
+      image: fencierapi,
+      developmentDate: "Jun 2024",
+      github: "https://github.com/joaosenna19/fencier-api",
+      stack: ["NestJS", "Passport", "MongoDB", "PrismaORM", "Render", "CORS"],
+    },
+    {
+      title: "Magic The Gathering Collection 2.0",
+      description:
+        "Enhanced full-stack project that allows Magic The Gathering players to register and keep track of their personal collection.",
+      image: mtg20,
+      developmentDate: "Mar 2024",
+      github: "https://github.com/joaosenna19/magic-collection",
+      stack: [
+        "NextJS",
+        "NextAuth",
+        "MongoDB",
+        "Zod",
+        "React Hook Form",
+        "PrismaORM",
+      ],
+    },
     {
       title: "Magic The Gathering Collection",
       description:
@@ -14,7 +41,6 @@ const Projects = () => {
       github: "https://github.com/joaosenna19/MTGCollection",
       stack: [
         "React",
-        "JavaScript",
         "TailwindCSS",
         "NodeJS",
         "Express",
