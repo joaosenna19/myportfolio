@@ -8,7 +8,6 @@ const Header = () => {
       <h1 className=" mb-2 text-4xl font-extrabold">Tony Radicchi</h1>
       <p className="mb-2 text-lg font-medium">Software Developer</p>
       <p className="mb-2 text-base font-light">
-        Passionate Software Developer
       </p>
       <p className="mb-2 flex text-sm font-thin">
         <img src={flag} alt="" width="24" height="24" className="mr-2" />

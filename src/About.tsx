@@ -26,8 +26,7 @@ const About = () => {
         where I am excited to explore new opportunities in the technology field.
         Besides my passion for programming, I also enjoy activities such as
         playing tennis, Magic The Gathering and reading fantasy books in my free
-        time. I am enthusiastic about the prospect of contributing and growing
-        professionally in this new phase of my career.
+        time. Shoot me a message at LinkedIn if you want to chat!
       </p>
     </section>
   );

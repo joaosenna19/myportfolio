@@ -5,7 +5,7 @@ const Education = () => {
     {
       program: "Software Development Diploma",
       uni: "Southern Alberta Institute of Technology",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Aug 2024",
       link: "https://www.sait.ca/programs-and-courses/diplomas/software-development",
     },
     {

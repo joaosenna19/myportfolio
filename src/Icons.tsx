@@ -14,7 +14,7 @@ const Icons = () => {
       </li>
       <li>
         <a
-          href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-tony-radicchi-b17b05a9/"
+          href="https://www.linkedin.com/in/tony-radicchi-b17b05a9/"
           target="_blank"
           rel="noopener noreferrer"
         >

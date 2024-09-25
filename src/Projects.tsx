@@ -4,9 +4,30 @@ import timber from "./assets/timber.png";
 import mtg from "./assets/mtg.png";
 import mtg20 from "./assets/mtg20.png";
 import fencierapi from "./assets/fencierapi.png";
+import fencierquote from "./assets/fencierquote.png";
+import fencierportal from "./assets/fencierportal.png";
 
 const Projects = () => {
   const projects = [
+    {
+      title: "Fencier Contractor Portal",
+      description:
+        "Frontend for my Capstone project Fencier, a platform that allows contractors to manage their quotes and jobs.",
+      image: fencierportal,
+      developmentDate: "Aug 2024",
+      github: "https://github.com/joaosenna19/fencier-portal",
+      stack: ["NextJS", "TailwindCSS", "React Hook Form"],
+    },
+    {
+      title: "Fencier Quote Portal",
+      description:
+        "Frontend for my Capstone project Fencier, a platform that allows customer to get instant online quotes for a fence by drawing in a map.",
+      image: fencierquote,
+      developmentDate: "Aug 2024",
+      github: "https://github.com/joaosenna19/fencier-quote",
+      stack: ["NextJS", "TailwindCSS", "React Hook Form", "Google Maps API"],
+    },
+
     {
       title: "Fencier API",
       description:
@@ -14,7 +35,7 @@ const Projects = () => {
       image: fencierapi,
       developmentDate: "Jun 2024",
       github: "https://github.com/joaosenna19/fencier-api",
-      stack: ["NestJS", "Passport", "MongoDB", "PrismaORM", "Render", "CORS"],
+      stack: ["NestJS", "Passport", "MongoDB", "PrismaORM", "AWS S3"],
     },
     {
       title: "Magic The Gathering Collection 2.0",

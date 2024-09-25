@@ -5,7 +5,7 @@ const Experience = () => {
     {
       company: "OQ Digital",
       website: "https://oqdigital.com/",
-      role: "Softare Development Intern",
+      role: "Software Engineer",
       date: "May 2024 - Present",
       stack: ["NestJS", "TypeScript", "MongoDB", "Express"],
     },
